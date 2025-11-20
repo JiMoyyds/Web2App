@@ -1,0 +1,4 @@
+<resources>
+<!--    写入app的名称-->
+    <string name="app_name">Web2App</string>
+</resources>
