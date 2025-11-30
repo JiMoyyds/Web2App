@@ -5,4 +5,4 @@
 软件名称：在res\value\themes\string.xml中可以修改软件名称  
 软件图标：在res\mipmap\ic_launcher右键New\Image Asset进行设置  
 # 限制
-安卓十二及以上
+安卓12及以上
